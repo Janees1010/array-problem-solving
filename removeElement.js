@@ -15,7 +15,7 @@ for(i=0;i<arr.length;i++){
    }
 }
 
-arr.length = arr.length-1;
+// arr.length = arr.length-1;
 
 
 for(i=0;i<arr.length;i++){
